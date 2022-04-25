@@ -1,0 +1,16 @@
+{
+  "name": "@reneknoxjs/fiberjs",
+  "version": "0.1.0-beta",
+  "description": "agile wrap for fetch api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api",
+    "request",
+    "network call"
+  ],
+  "author": "Omar Hossam Eldin",
+  "license": "MIT"
+}
